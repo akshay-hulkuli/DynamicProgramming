@@ -1,11 +1,6 @@
 # DynamicProgramming
 
-<h3>Order of reading files</h3>
-<ol>
-  <li>Fibonacci</li>
-  <li>Grid Traveller</li>
-  <li> 
-    <h5>Memoization recipe</h5>
+<h3>Memoization recipe</h3>
     <ol>
       <li>
         Make it work
@@ -24,5 +19,10 @@
         </ul>
       </li>
     </ol>
-  </li>
+
+<h3>Order of reading files</h3>
+<ol>
+  <li>Fibonacci</li>
+  <li>Grid Traveller</li>
+  <li>CanSum problem</li>
 </ol>
