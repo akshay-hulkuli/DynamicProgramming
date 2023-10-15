@@ -81,3 +81,12 @@ console.log(gridTraveller(2,3));
 console.log(gridTraveller(3,2));
 console.log(gridTraveller(3,3));
 console.log(gridTraveller(18, 18));
+
+/*
+    for m,n input.
+    in the current way we can have max m*n nodes unique nodes in the tree.
+    There won't be duplicate nodes due to memoization
+
+    Hence the time complexity is m*n
+    The space complexity is m+n
+*/
