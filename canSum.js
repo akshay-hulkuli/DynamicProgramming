@@ -38,7 +38,7 @@ Example : canSum(7, [5,3,4,7]) -> true
 // console.log(canSum(300, [7,14]));
 
 
-// optimization using tabulation
+// optimization using memoization
 
 const canSum = (sum, numbers, memo = {}) => {
     if(sum < 0) return false;
