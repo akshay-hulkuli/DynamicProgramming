@@ -62,7 +62,6 @@ ans ->
 
 const gridTraveller = (m,n, memo = {}) => {
     // key generation is done based on rule gt(a,b) is same as gt(b,a)
-    // otherwise we don't reduce the time complexity that much.
     let key = m > n ? m + "," + n : n + "," + m;
     if((key) in memo) return memo[key];
     if(m == 1 && n == 1) {
