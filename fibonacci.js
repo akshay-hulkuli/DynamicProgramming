@@ -18,7 +18,7 @@ const lib(n) => {
                         /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \
                    lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)
                 /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \ /   \     /    \     /  \      /   \
-lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)  lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2) lib(2)     
+lib(1)  lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1)  lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1)  lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1)  lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1) lib(1)     
 
 here no of function call is doubling in each step. (getting multiplied by 2)
 Timecomplexity = 1 + 2 + 4 + 8+ 16 + 32 = 1 + 2^1 + 2^2 +...+ 2^n-1 ~= 2^n ~= 2 ^ (dept of the tree)

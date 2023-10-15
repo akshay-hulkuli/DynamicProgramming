@@ -1,5 +1,5 @@
 /*
-You will be given with a 2-d grid of size n*m. 
+You will be given with a 2-d grid of size m*n. 
 Find the number ways in which bot can move from the top left corner to the bottom right corner. 
 bot is allowed to make either right or down move.
 */
