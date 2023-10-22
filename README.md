@@ -25,4 +25,7 @@
   <li>Fibonacci</li>
   <li>Grid Traveller</li>
   <li>CanSum problem</li>
+  <li>HowSum problem</li>
+  <li>BestSum problem</li>
+  <li>CanConstruct problem</li>
 </ol>
