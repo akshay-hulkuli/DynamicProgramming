@@ -43,7 +43,7 @@ const howSum = (sum, numbers, memo={}) => {
 
 /*
 Time complexity is O(m*n*m) = O(m^2 * n)
-Space complexity is same = O(m^2)
+Space complexity is same = O(m^2) (m  keys and each value having max m sized array. Here stack space complexity is ignored)
 */
 
 console.log(howSum(7, [5,4,3,7]))
