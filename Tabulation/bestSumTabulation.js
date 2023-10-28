@@ -20,6 +20,11 @@ const bestSum = (targetSum, numbers) => {
     return table[targetSum];
 }
 
+/*
+Time Complexity : O(m^2*n) (m -> iterrating through table, m -> spread operation, n-> iterating through numbers)
+Space complexity : O(m*m)
+*/
+
 
 console.log(bestSum(7, [5, 4, 3, 7]))
 console.log(bestSum(7, [2, 3]));
