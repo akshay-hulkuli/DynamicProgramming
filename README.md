@@ -45,6 +45,9 @@
 
 <h3>Order of reading files</h3>
 <ol>
+<li>
+<h5>Memoization</h5>
+<ol>
   <li>Fibonacci</li>
   <li>Grid Traveller</li>
   <li>CanSum problem</li>
@@ -53,4 +56,19 @@
   <li>CanConstruct problem</li>
   <li>countConstruct problem</li>
   <li> allConstruct problem </li>
+</ol>
+<li>
+<li>
+<h5>Tabulation</h5>
+<ol>
+  <li>Fibonacci</li>
+  <li>Grid Traveller</li>
+  <li>CanSum problem</li>
+  <li>HowSum problem</li>
+  <li>BestSum problem</li>
+  <li>CanConstruct problem</li>
+  <li>countConstruct problem</li>
+  <li> allConstruct problem </li>
+</ol>
+<li>
 </ol>

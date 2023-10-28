@@ -21,7 +21,7 @@ we have to create a table like this ->
  --- --- --- ---
 
  Then we need to intialize position (1,1) with value 1.
-  --- --- --- ---
+ --- --- --- ---
 | 0 | 0 | 0 | 0 |
  --- --- --- ---
 | 0 | 1 | 0 | 0 |  
