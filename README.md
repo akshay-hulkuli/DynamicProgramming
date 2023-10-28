@@ -28,4 +28,6 @@
   <li>HowSum problem</li>
   <li>BestSum problem</li>
   <li>CanConstruct problem</li>
+  <li>countConstruct problem</li>
+  <li> allConstruct problem </li>
 </ol>
