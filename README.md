@@ -20,6 +20,29 @@
       </li>
     </ol>
 
+
+<h3>Tabulation  recipe</h3>
+    <ol>
+      <li>
+        Visualise the problem as a table
+      </li>
+      <li>
+        Size of the table based on the inputs
+      </li>
+      <li>
+        Initialize the table with default values
+      </li>
+      <li>
+        Seed the trivial answer into the table
+      </li>
+      <li>
+        Iterate through the table
+      </li>
+      <li>
+        Fill further positions based on the current position
+      </li>
+    </ol>
+
 <h3>Order of reading files</h3>
 <ol>
   <li>Fibonacci</li>
